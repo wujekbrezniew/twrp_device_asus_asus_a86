@@ -1,0 +1,5 @@
+export ALLOW_MISSING_DEPEDENCIES=true
+
+add_lunch_combo omni_asus_a86-userdebug
+add_lunch_combo omni_asus_a86-eng
+
