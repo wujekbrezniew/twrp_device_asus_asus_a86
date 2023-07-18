@@ -18,7 +18,7 @@
 # $(call inherit-product, device/sample/products/backup_overlay.mk)
 
 # Inherit from the common Open Source product configuration
-PRODUCT_NAME := lineage_asus_a86
+PRODUCT_NAME := omni_asus_a86
 PRODUCT_DEVICE := asus_a86
 PRODUCT_BRAND := asus
 PRODUCT_MODEL := PadFone T004
